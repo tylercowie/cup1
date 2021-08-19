@@ -1,0 +1,96 @@
+.tab {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.overlap-group1 {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  height: 43px;
+  min-width: 100px;
+  padding: 8px 10px;
+}
+
+.minus {
+  height: 2px;
+  margin-bottom: 3.0px;
+  width: 9px;
+}
+
+.number-1 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 23px;
+  min-height: 23px;
+  width: 15px;
+}
+
+.plus {
+  height: 10px;
+  margin-bottom: 3.0px;
+  margin-left: 20px;
+  width: 9px;
+}
+
+.tab-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-4 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-6 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-7 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-8 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-9 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.tab-10 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+

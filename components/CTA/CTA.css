@@ -1,0 +1,25 @@
+.cta-6 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 46px;
+  min-width: 208px;
+}
+
+.overlap-group-7 {
+  align-items: flex-start;
+  background-color: var(--grape);
+  border-radius: 8px;
+  display: flex;
+  height: 43px;
+  justify-content: flex-end;
+  min-width: 206px;
+  padding: 12px 30px;
+}
+
+.shop-now {
+  letter-spacing: 0;
+  min-height: 18px;
+  text-align: center;
+  width: 143px;
+}
+

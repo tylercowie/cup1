@@ -1,0 +1,126 @@
+:root { 
+  --azalea: #f7cfda;
+  --corn-field: #fbfac9;
+  --grape: #642c99;
+  --oasis: #fdefd1;
+  --papaya-whip: #fcefd2;
+ 
+  --font-size-l2: 20px;
+  --font-size-m2: 18px;
+  --font-size-s2: 16px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl2: 90px;
+  --font-size-xxxxl: 120px;
+ 
+  --font-family-avenir-black: "Avenir-Black", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+  --font-family-wendy_one: "Wendy One", Helvetica;
+}
+.lato-normal-corn-field-16px {
+  color: var(--corn-field);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lato-normal-grape-16px {
+  color: var(--grape);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.wendyone-normal-grape-32px {
+  color: var(--grape);
+  font-family: var(--font-family-wendy_one);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-black-grape-20px {
+  color: var(--grape);
+  font-family: var(--font-family-avenir-black);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.lato-bold-oasis-18px {
+  color: var(--oasis);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lato-normal-grape-18px {
+  color: var(--grape);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.wendyone-normal-grape-120px {
+  color: var(--grape);
+  font-family: var(--font-family-wendy_one);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.wendyone-normal-grape-90px {
+  color: var(--grape);
+  font-family: var(--font-family-wendy_one);
+  font-size: var(--font-size-xxxl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lato-black-grape-18px {
+  color: var(--grape);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.lato-normal-grape-14px {
+  color: var(--grape);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.wendyone-normal-oasis-32px {
+  color: var(--oasis);
+  font-family: var(--font-family-wendy_one);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lato-bold-oasis-16px {
+  color: var(--oasis);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-2px-grape {
+  border: 2px solid var(--grape);
+}
+
+.border-1-5px-grape {
+  border: 1.5px solid var(--grape);
+}
+
+.border-2px-oasis {
+  border: 2px solid var(--oasis);
+}
